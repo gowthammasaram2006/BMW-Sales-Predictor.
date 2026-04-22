@@ -1,0 +1,82 @@
+<!-- templates/index.html -->
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>BMW Sales Predictor</title>
+  <link href="/static/style.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { background:white; }
+    .container { max-width:840px; margin-top:28px; }
+    .card { border-radius:12px; padding:20px; box-shadow: 0 12px 30px rgba(2,6,23,0.06); }
+    .form-select { border-radius:10px; border:2px solid #0b66ff; padding:12px; background:#f6fbff;}
+    .btn-primary { background: linear-gradient(90deg,#0b66ff,#1ea1ff); border:none; border-radius:10px; padding:12px 20px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="text-center display-5 text-primary">🚗 BMW Sales Predictor (Next 50 Years)</h1>
+    <p class="text-center text-muted">Select model details to predict sales for the next 50 years.</p>
+
+    <div class="card mx-auto mt-4">
+      <form method="post" action="/result">
+        <div class="mb-3">
+          <label class="form-label fw-bold">Model:</label>
+          <select name="Model" class="form-select" required>
+            <option value="">-- select --</option>
+            {% for m in unique_vals.Model %}
+            <option value="{{ m }}">{{ m }}</option>
+            {% endfor %}
+          </select>
+        </div>
+
+        <div class="mb-3">
+          <label class="form-label fw-bold">Fuel Type:</label>
+          <select name="Fuel_Type" class="form-select">
+            <option value="">--</option>
+            {% for f in unique_vals.Fuel_Type %}
+            <option value="{{ f }}">{{ f }}</option>
+            {% endfor %}
+          </select>
+        </div>
+
+        <div class="mb-3">
+          <label class="form-label fw-bold">Transmission:</label>
+          <select name="Transmission" class="form-select">
+            <option value="">--</option>
+            {% for t in unique_vals.Transmission %}
+            <option value="{{ t }}">{{ t }}</option>
+            {% endfor %}
+          </select>
+        </div>
+
+        <div class="row g-3 mb-3">
+          <div class="col-md-6">
+            <label class="form-label fw-bold">Prediction Year (start):</label>
+            <select name="Year" class="form-select" required>
+              {% set current = 2024 %}
+              {% for y in range(2010, 2038) %}
+              <option value="{{ y }}">{{ y }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="col-md-6">
+            <label class="form-label fw-bold">Forecast Horizon (years)</label>
+            <select name="Horizon" class="form-select">
+              <option value="5">5</option>
+              <option value="10" selected>10</option>
+              <option value="20">20</option>
+              <option value="50">50</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="d-grid">
+          <button class="btn btn-primary btn-lg">Predict Sales</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</body>
+</html>

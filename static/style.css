@@ -1,0 +1,7 @@
+/* static/style.css */
+body {
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  color: #0b2545;
+}
+.text-primary { color: #007bff !important; }
+.btn-primary { background: linear-gradient(90deg,#0b66ff,#1ea1ff); border:none; }

@@ -1,0 +1,1001 @@
+Model,Year,Fuel_Type,Transmission,Sales_Volume
+BMW 5 Series,2022,Petrol,Automatic,64297
+BMW 7 Series,2014,Diesel,Automatic,36402
+BMW X5,2021,Hybrid,Automatic,62005
+BMW 3 Series,2020,Diesel,Automatic,52439
+BMW X3,2012,Petrol,Manual,38883
+BMW X1,2018,Petrol,Manual,33190
+BMW 3 Series,2013,Petrol,Automatic,56588
+BMW X3,2012,Hybrid,Automatic,47346
+BMW 3 Series,2011,Diesel,Manual,42198
+BMW X1,2017,Diesel,Automatic,35697
+BMW X1,2017,Petrol,Automatic,34656
+BMW 3 Series,2022,Petrol,Manual,60989
+BMW X3,2010,Diesel,Manual,48846
+BMW X3,2021,Petrol,Automatic,54208
+BMW X5,2010,Petrol,Manual,42711
+BMW 3 Series,2019,Petrol,Automatic,55388
+BMW 7 Series,2023,Petrol,Automatic,46830
+BMW 3 Series,2022,Petrol,Automatic,59222
+BMW X3,2021,Petrol,Manual,52688
+BMW 5 Series,2020,Petrol,Automatic,64829
+BMW 3 Series,2017,Petrol,Automatic,52180
+BMW 3 Series,2017,Diesel,Automatic,53412
+BMW X5,2023,Diesel,Automatic,49991
+BMW 5 Series,2010,Petrol,Automatic,62456
+BMW X5,2016,Diesel,Automatic,49851
+BMW X1,2020,Diesel,Automatic,35505
+BMW 7 Series,2022,Hybrid,Automatic,43971
+BMW 5 Series,2016,Petrol,Automatic,66899
+BMW X5,2010,Diesel,Automatic,53932
+BMW 3 Series,2018,Petrol,Automatic,59568
+BMW X5,2014,Hybrid,Automatic,60858
+BMW X5,2017,Hybrid,Manual,53925
+BMW X1,2023,Petrol,Automatic,42055
+BMW X1,2018,Petrol,Automatic,34632
+BMW 3 Series,2017,Diesel,Automatic,51891
+BMW 5 Series,2016,Petrol,Automatic,66824
+BMW 7 Series,2017,Diesel,Automatic,38970
+BMW 3 Series,2022,Petrol,Automatic,70814
+BMW 3 Series,2021,Hybrid,Manual,59582
+BMW X5,2012,Hybrid,Automatic,48502
+BMW 5 Series,2019,Hybrid,Automatic,63404
+BMW X5,2011,Petrol,Automatic,49518
+BMW 3 Series,2015,Petrol,Automatic,56203
+BMW X5,2019,Petrol,Automatic,48162
+BMW X5,2021,Diesel,Automatic,57349
+BMW X3,2019,Petrol,Automatic,48414
+BMW X3,2021,Hybrid,Automatic,53027
+BMW 3 Series,2022,Hybrid,Automatic,49964
+BMW X3,2019,Petrol,Manual,40407
+BMW 3 Series,2011,Petrol,Automatic,57855
+BMW X5,2010,Hybrid,Automatic,42970
+BMW 5 Series,2014,Petrol,Automatic,71070
+BMW 3 Series,2023,Hybrid,Automatic,58821
+BMW 7 Series,2010,Petrol,Automatic,33189
+BMW X5,2013,Petrol,Automatic,57559
+BMW 3 Series,2017,Hybrid,Manual,55783
+BMW X1,2013,Diesel,Automatic,35336
+BMW X5,2012,Diesel,Automatic,40868
+BMW 3 Series,2023,Petrol,Automatic,59195
+BMW X3,2019,Petrol,Automatic,50447
+BMW 3 Series,2018,Diesel,Automatic,59058
+BMW X3,2012,Hybrid,Automatic,46654
+BMW X3,2010,Diesel,Automatic,47064
+BMW X1,2013,Diesel,Automatic,31738
+BMW X5,2012,Petrol,Automatic,50538
+BMW X1,2014,Diesel,Automatic,31568
+BMW 3 Series,2019,Petrol,Manual,51120
+BMW 3 Series,2016,Petrol,Automatic,59459
+BMW X5,2011,Petrol,Automatic,47061
+BMW X5,2018,Diesel,Automatic,49538
+BMW 5 Series,2016,Petrol,Manual,60249
+BMW 7 Series,2019,Diesel,Automatic,43470
+BMW 3 Series,2018,Petrol,Automatic,61903
+BMW 3 Series,2015,Diesel,Manual,51195
+BMW X5,2021,Petrol,Automatic,70998
+BMW 7 Series,2014,Diesel,Automatic,38068
+BMW 3 Series,2014,Petrol,Automatic,50710
+BMW 5 Series,2011,Petrol,Automatic,58880
+BMW 5 Series,2014,Diesel,Automatic,61853
+BMW X5,2022,Hybrid,Automatic,55374
+BMW 5 Series,2015,Diesel,Manual,64416
+BMW X5,2020,Diesel,Automatic,54291
+BMW 3 Series,2016,Hybrid,Automatic,56720
+BMW X3,2014,Diesel,Automatic,43764
+BMW 5 Series,2022,Diesel,Automatic,61572
+BMW 3 Series,2019,Petrol,Automatic,64037
+BMW X5,2023,Hybrid,Automatic,48799
+BMW X3,2014,Diesel,Automatic,49035
+BMW X1,2020,Petrol,Automatic,35196
+BMW 7 Series,2021,Petrol,Automatic,44579
+BMW X3,2010,Petrol,Automatic,37921
+BMW 3 Series,2012,Petrol,Automatic,51745
+BMW 5 Series,2017,Petrol,Automatic,64839
+BMW X5,2022,Petrol,Automatic,56504
+BMW 3 Series,2014,Petrol,Automatic,47980
+BMW 3 Series,2018,Diesel,Automatic,49012
+BMW 5 Series,2010,Petrol,Automatic,58254
+BMW 5 Series,2015,Petrol,Automatic,60877
+BMW 3 Series,2012,Diesel,Manual,50924
+BMW X1,2022,Hybrid,Automatic,36417
+BMW 3 Series,2016,Petrol,Automatic,51824
+BMW 3 Series,2010,Petrol,Automatic,49608
+BMW X1,2015,Diesel,Automatic,35774
+BMW 5 Series,2019,Diesel,Automatic,63179
+BMW 3 Series,2014,Petrol,Automatic,51609
+BMW 3 Series,2023,Diesel,Automatic,61666
+BMW X5,2015,Hybrid,Automatic,58240
+BMW 7 Series,2022,Diesel,Automatic,43760
+BMW 5 Series,2010,Diesel,Automatic,59475
+BMW 7 Series,2013,Petrol,Automatic,37752
+BMW 7 Series,2014,Petrol,Manual,34788
+BMW X1,2010,Petrol,Automatic,30503
+BMW X3,2010,Hybrid,Automatic,46063
+BMW X3,2021,Diesel,Automatic,45365
+BMW X3,2020,Diesel,Manual,46877
+BMW X1,2017,Petrol,Automatic,35199
+BMW 7 Series,2018,Petrol,Automatic,38391
+BMW 3 Series,2017,Diesel,Automatic,50633
+BMW 3 Series,2022,Petrol,Automatic,63102
+BMW X5,2018,Petrol,Automatic,58343
+BMW X5,2010,Petrol,Automatic,47278
+BMW X1,2022,Petrol,Automatic,38325
+BMW X3,2020,Petrol,Automatic,60819
+BMW 5 Series,2019,Hybrid,Automatic,79034
+BMW 3 Series,2021,Diesel,Automatic,65356
+BMW 5 Series,2018,Petrol,Automatic,67252
+BMW 3 Series,2014,Petrol,Automatic,57134
+BMW 5 Series,2015,Petrol,Automatic,62312
+BMW X3,2014,Diesel,Automatic,43656
+BMW X1,2020,Petrol,Automatic,26621
+BMW 7 Series,2015,Petrol,Automatic,36382
+BMW 3 Series,2010,Petrol,Manual,46304
+BMW X5,2010,Petrol,Automatic,48245
+BMW X3,2023,Petrol,Automatic,53460
+BMW X3,2011,Petrol,Automatic,41409
+BMW 3 Series,2010,Petrol,Automatic,52855
+BMW X1,2010,Petrol,Automatic,28141
+BMW X1,2010,Diesel,Automatic,34260
+BMW 5 Series,2014,Petrol,Automatic,63287
+BMW 3 Series,2017,Diesel,Manual,61373
+BMW 3 Series,2016,Hybrid,Automatic,49379
+BMW 3 Series,2012,Petrol,Manual,52981
+BMW X1,2020,Petrol,Automatic,35929
+BMW 5 Series,2014,Petrol,Automatic,61109
+BMW X5,2021,Petrol,Manual,56131
+BMW 3 Series,2023,Diesel,Automatic,58141
+BMW 3 Series,2015,Diesel,Manual,49340
+BMW 3 Series,2011,Petrol,Automatic,50804
+BMW 7 Series,2021,Petrol,Automatic,39722
+BMW X1,2016,Diesel,Automatic,35274
+BMW X3,2023,Petrol,Automatic,52644
+BMW 5 Series,2017,Petrol,Manual,61005
+BMW X1,2015,Petrol,Automatic,31888
+BMW 3 Series,2013,Petrol,Automatic,51303
+BMW 5 Series,2017,Diesel,Automatic,76524
+BMW 7 Series,2016,Petrol,Automatic,36747
+BMW X3,2010,Petrol,Manual,38558
+BMW X1,2017,Diesel,Automatic,35664
+BMW X5,2011,Petrol,Automatic,59785
+BMW 3 Series,2019,Diesel,Manual,46812
+BMW 3 Series,2016,Petrol,Manual,54638
+BMW X3,2016,Petrol,Automatic,52189
+BMW 5 Series,2021,Petrol,Automatic,73829
+BMW 3 Series,2017,Petrol,Automatic,57710
+BMW X1,2023,Petrol,Automatic,41059
+BMW 3 Series,2022,Petrol,Manual,56782
+BMW 7 Series,2018,Diesel,Automatic,43758
+BMW 3 Series,2016,Petrol,Automatic,45167
+BMW X3,2011,Petrol,Automatic,47068
+BMW 5 Series,2010,Petrol,Automatic,57687
+BMW X1,2016,Hybrid,Manual,33279
+BMW X1,2018,Diesel,Automatic,31760
+BMW X3,2023,Petrol,Automatic,49504
+BMW X3,2015,Diesel,Automatic,55625
+BMW 5 Series,2012,Diesel,Automatic,58634
+BMW 3 Series,2018,Diesel,Automatic,55871
+BMW X5,2012,Petrol,Automatic,54135
+BMW 5 Series,2021,Petrol,Automatic,67070
+BMW 3 Series,2022,Hybrid,Manual,54010
+BMW X5,2023,Diesel,Automatic,56416
+BMW X5,2012,Hybrid,Automatic,54759
+BMW 5 Series,2022,Diesel,Automatic,65438
+BMW X5,2019,Petrol,Manual,55768
+BMW 3 Series,2011,Diesel,Automatic,53359
+BMW 5 Series,2023,Petrol,Automatic,64542
+BMW 5 Series,2016,Petrol,Manual,63441
+BMW X1,2023,Diesel,Automatic,34854
+BMW X3,2015,Petrol,Automatic,40816
+BMW 3 Series,2015,Petrol,Automatic,51633
+BMW 3 Series,2018,Petrol,Automatic,56338
+BMW 3 Series,2011,Diesel,Automatic,43492
+BMW 5 Series,2015,Petrol,Automatic,58422
+BMW X3,2020,Hybrid,Automatic,60986
+BMW X3,2023,Petrol,Automatic,60897
+BMW 3 Series,2018,Petrol,Automatic,55088
+BMW 3 Series,2018,Petrol,Automatic,47143
+BMW X3,2020,Hybrid,Automatic,54334
+BMW 5 Series,2015,Petrol,Automatic,60191
+BMW 3 Series,2018,Diesel,Automatic,52777
+BMW X3,2011,Petrol,Automatic,39678
+BMW 3 Series,2013,Petrol,Automatic,55988
+BMW X3,2019,Petrol,Automatic,52114
+BMW X3,2023,Diesel,Automatic,54584
+BMW X1,2015,Diesel,Automatic,36017
+BMW 3 Series,2015,Diesel,Automatic,48262
+BMW 7 Series,2022,Petrol,Automatic,52445
+BMW X3,2015,Petrol,Automatic,44713
+BMW 5 Series,2010,Diesel,Automatic,56854
+BMW 5 Series,2017,Petrol,Automatic,65536
+BMW 7 Series,2014,Petrol,Automatic,41366
+BMW X3,2016,Petrol,Automatic,52525
+BMW X3,2012,Diesel,Automatic,41888
+BMW 5 Series,2011,Petrol,Manual,62705
+BMW 7 Series,2017,Diesel,Automatic,36962
+BMW X1,2018,Hybrid,Automatic,37334
+BMW 3 Series,2022,Petrol,Automatic,57930
+BMW 7 Series,2019,Petrol,Automatic,44158
+BMW X5,2018,Petrol,Automatic,55205
+BMW X3,2021,Petrol,Manual,58206
+BMW 3 Series,2014,Hybrid,Automatic,52970
+BMW 7 Series,2014,Petrol,Automatic,35936
+BMW 7 Series,2020,Petrol,Manual,45859
+BMW X3,2017,Petrol,Automatic,50618
+BMW X1,2011,Petrol,Automatic,26864
+BMW 3 Series,2015,Petrol,Automatic,54798
+BMW 3 Series,2019,Hybrid,Automatic,55404
+BMW X1,2012,Hybrid,Automatic,26554
+BMW 3 Series,2015,Petrol,Manual,57419
+BMW 5 Series,2020,Hybrid,Automatic,67252
+BMW X1,2015,Hybrid,Manual,30684
+BMW 5 Series,2016,Petrol,Automatic,71573
+BMW 5 Series,2018,Diesel,Automatic,60968
+BMW 3 Series,2020,Diesel,Automatic,48221
+BMW X3,2011,Petrol,Automatic,41610
+BMW 5 Series,2014,Petrol,Automatic,70744
+BMW X3,2020,Petrol,Automatic,49757
+BMW X5,2018,Diesel,Automatic,44601
+BMW X1,2014,Petrol,Automatic,31714
+BMW X1,2019,Diesel,Automatic,30247
+BMW 3 Series,2021,Petrol,Automatic,58484
+BMW 5 Series,2013,Petrol,Automatic,65458
+BMW 3 Series,2022,Diesel,Automatic,51359
+BMW 3 Series,2018,Diesel,Automatic,55338
+BMW X1,2020,Diesel,Automatic,37030
+BMW 5 Series,2019,Diesel,Automatic,58276
+BMW 3 Series,2021,Hybrid,Automatic,55260
+BMW X1,2020,Petrol,Automatic,36071
+BMW 3 Series,2014,Diesel,Automatic,52762
+BMW X3,2020,Hybrid,Automatic,48671
+BMW 3 Series,2017,Diesel,Automatic,60799
+BMW 5 Series,2015,Petrol,Automatic,63423
+BMW X5,2011,Diesel,Automatic,47495
+BMW 7 Series,2013,Petrol,Automatic,34701
+BMW 3 Series,2018,Petrol,Automatic,45887
+BMW 3 Series,2012,Petrol,Manual,49215
+BMW X1,2018,Diesel,Automatic,33086
+BMW X1,2021,Diesel,Automatic,31720
+BMW 5 Series,2014,Petrol,Automatic,58953
+BMW X3,2023,Petrol,Automatic,56719
+BMW X3,2019,Petrol,Automatic,54844
+BMW X3,2012,Diesel,Automatic,47705
+BMW 3 Series,2011,Petrol,Manual,50637
+BMW 7 Series,2010,Hybrid,Automatic,38286
+BMW X3,2022,Petrol,Manual,49868
+BMW 7 Series,2013,Petrol,Automatic,37904
+BMW X1,2023,Hybrid,Automatic,36131
+BMW 5 Series,2014,Diesel,Automatic,67870
+BMW X5,2022,Diesel,Automatic,50513
+BMW X3,2010,Petrol,Manual,46793
+BMW 5 Series,2013,Diesel,Automatic,60628
+BMW X1,2012,Petrol,Automatic,33366
+BMW X3,2015,Hybrid,Automatic,51838
+BMW X1,2017,Petrol,Automatic,28724
+BMW X1,2014,Diesel,Automatic,30802
+BMW 3 Series,2013,Petrol,Automatic,57207
+BMW 5 Series,2019,Hybrid,Manual,69633
+BMW 7 Series,2022,Petrol,Manual,36784
+BMW X3,2021,Diesel,Automatic,55414
+BMW X1,2012,Petrol,Manual,30408
+BMW X3,2012,Petrol,Manual,47584
+BMW 5 Series,2020,Hybrid,Manual,62535
+BMW X1,2015,Diesel,Automatic,27075
+BMW X1,2011,Diesel,Automatic,27258
+BMW 5 Series,2018,Diesel,Automatic,70088
+BMW X3,2021,Petrol,Automatic,52772
+BMW X1,2019,Diesel,Manual,31430
+BMW X5,2017,Hybrid,Automatic,55733
+BMW 5 Series,2011,Diesel,Automatic,63175
+BMW 3 Series,2020,Petrol,Automatic,61812
+BMW X1,2022,Petrol,Automatic,36443
+BMW 7 Series,2017,Petrol,Automatic,42726
+BMW X3,2012,Petrol,Automatic,48930
+BMW 3 Series,2019,Diesel,Automatic,60451
+BMW 3 Series,2019,Diesel,Automatic,60083
+BMW X1,2022,Petrol,Automatic,41165
+BMW X3,2021,Diesel,Automatic,45006
+BMW 5 Series,2017,Petrol,Automatic,70330
+BMW 3 Series,2019,Petrol,Automatic,60899
+BMW 3 Series,2016,Hybrid,Automatic,53412
+BMW 3 Series,2019,Diesel,Automatic,61148
+BMW 5 Series,2021,Petrol,Automatic,71056
+BMW X5,2014,Diesel,Automatic,49278
+BMW 3 Series,2013,Petrol,Automatic,49536
+BMW X3,2015,Diesel,Automatic,45881
+BMW X3,2020,Diesel,Manual,45593
+BMW X3,2023,Diesel,Automatic,50644
+BMW X5,2019,Hybrid,Automatic,46043
+BMW X5,2013,Petrol,Automatic,42117
+BMW X3,2015,Petrol,Automatic,42759
+BMW 5 Series,2019,Petrol,Automatic,68509
+BMW 5 Series,2015,Petrol,Automatic,65042
+BMW 3 Series,2011,Hybrid,Automatic,51242
+BMW 5 Series,2016,Petrol,Automatic,60134
+BMW X5,2014,Petrol,Automatic,53866
+BMW X5,2011,Petrol,Automatic,48262
+BMW X5,2022,Petrol,Automatic,48627
+BMW X3,2016,Petrol,Manual,51539
+BMW X1,2011,Petrol,Automatic,24274
+BMW 3 Series,2011,Diesel,Automatic,50366
+BMW X3,2021,Petrol,Automatic,59099
+BMW 3 Series,2016,Hybrid,Automatic,55595
+BMW X3,2017,Petrol,Automatic,53179
+BMW X1,2017,Petrol,Manual,32713
+BMW 7 Series,2015,Petrol,Automatic,37259
+BMW 3 Series,2021,Petrol,Automatic,67906
+BMW X3,2023,Petrol,Automatic,54748
+BMW X5,2011,Petrol,Automatic,50012
+BMW 5 Series,2021,Diesel,Automatic,70161
+BMW 5 Series,2010,Petrol,Manual,54401
+BMW X5,2020,Petrol,Automatic,57981
+BMW X3,2011,Petrol,Automatic,43641
+BMW 3 Series,2021,Petrol,Automatic,53364
+BMW 7 Series,2012,Hybrid,Automatic,35491
+BMW 3 Series,2019,Petrol,Automatic,49586
+BMW X3,2018,Petrol,Automatic,49843
+BMW 3 Series,2022,Diesel,Automatic,60571
+BMW 3 Series,2016,Petrol,Automatic,59642
+BMW 3 Series,2014,Petrol,Automatic,52055
+BMW X5,2021,Petrol,Automatic,58554
+BMW 3 Series,2020,Petrol,Automatic,57125
+BMW 5 Series,2023,Diesel,Automatic,69823
+BMW 5 Series,2023,Hybrid,Automatic,74358
+BMW X3,2018,Diesel,Manual,47770
+BMW X1,2018,Petrol,Manual,31263
+BMW 3 Series,2023,Petrol,Automatic,64267
+BMW X3,2014,Petrol,Automatic,49624
+BMW X5,2016,Petrol,Automatic,55248
+BMW 5 Series,2023,Hybrid,Automatic,67365
+BMW 3 Series,2022,Petrol,Automatic,65308
+BMW 3 Series,2010,Petrol,Automatic,50497
+BMW 3 Series,2012,Hybrid,Automatic,56131
+BMW X1,2013,Diesel,Automatic,29805
+BMW X3,2012,Diesel,Manual,43952
+BMW 7 Series,2016,Petrol,Manual,36608
+BMW X5,2012,Petrol,Manual,47193
+BMW 3 Series,2012,Petrol,Automatic,56745
+BMW 3 Series,2017,Petrol,Automatic,54808
+BMW X3,2010,Petrol,Automatic,45512
+BMW X3,2014,Petrol,Automatic,45640
+BMW X3,2012,Petrol,Manual,51999
+BMW X1,2022,Diesel,Automatic,36442
+BMW X5,2019,Diesel,Manual,50232
+BMW X5,2011,Petrol,Automatic,45990
+BMW X3,2010,Petrol,Automatic,42611
+BMW X1,2019,Petrol,Automatic,33374
+BMW X1,2021,Petrol,Automatic,39979
+BMW X5,2011,Petrol,Automatic,55863
+BMW 3 Series,2010,Petrol,Automatic,48857
+BMW 3 Series,2014,Diesel,Automatic,49540
+BMW X3,2021,Petrol,Automatic,45333
+BMW X5,2019,Petrol,Automatic,54521
+BMW X1,2014,Hybrid,Automatic,37786
+BMW 3 Series,2021,Petrol,Automatic,59719
+BMW 3 Series,2014,Petrol,Automatic,49640
+BMW 3 Series,2011,Petrol,Automatic,51971
+BMW X5,2013,Petrol,Automatic,43863
+BMW 3 Series,2014,Petrol,Manual,45175
+BMW X5,2014,Petrol,Automatic,50706
+BMW 3 Series,2010,Petrol,Automatic,51180
+BMW 3 Series,2010,Petrol,Automatic,49067
+BMW X3,2022,Petrol,Automatic,52080
+BMW X5,2016,Petrol,Automatic,53865
+BMW X3,2011,Diesel,Automatic,44359
+BMW 5 Series,2021,Hybrid,Automatic,70804
+BMW X1,2015,Petrol,Manual,28862
+BMW X3,2013,Petrol,Automatic,43958
+BMW X3,2015,Diesel,Automatic,48443
+BMW X1,2018,Petrol,Automatic,33869
+BMW 7 Series,2021,Diesel,Automatic,45645
+BMW X5,2012,Petrol,Automatic,57356
+BMW 3 Series,2012,Diesel,Automatic,54616
+BMW 5 Series,2011,Petrol,Automatic,60823
+BMW X1,2014,Petrol,Manual,29874
+BMW X3,2010,Diesel,Automatic,40510
+BMW 5 Series,2015,Petrol,Automatic,65806
+BMW 3 Series,2012,Petrol,Automatic,54180
+BMW 7 Series,2019,Petrol,Automatic,43267
+BMW 3 Series,2011,Petrol,Automatic,54975
+BMW 5 Series,2014,Diesel,Automatic,61296
+BMW 3 Series,2012,Petrol,Automatic,51579
+BMW 7 Series,2019,Diesel,Automatic,41927
+BMW 3 Series,2014,Diesel,Automatic,60151
+BMW 3 Series,2016,Diesel,Automatic,49014
+BMW 5 Series,2018,Petrol,Automatic,67917
+BMW 5 Series,2015,Hybrid,Automatic,66330
+BMW 3 Series,2021,Petrol,Automatic,54854
+BMW X3,2012,Petrol,Manual,43006
+BMW X1,2017,Diesel,Automatic,36107
+BMW X5,2014,Hybrid,Automatic,46279
+BMW X3,2021,Hybrid,Automatic,56113
+BMW 3 Series,2023,Diesel,Automatic,59865
+BMW 3 Series,2014,Diesel,Manual,49426
+BMW X5,2010,Diesel,Automatic,56358
+BMW X5,2013,Diesel,Automatic,54488
+BMW X5,2021,Petrol,Automatic,52121
+BMW X1,2022,Petrol,Automatic,35854
+BMW 3 Series,2019,Petrol,Automatic,54707
+BMW X3,2018,Hybrid,Automatic,56765
+BMW X1,2019,Hybrid,Automatic,29267
+BMW 3 Series,2016,Petrol,Automatic,49969
+BMW X1,2013,Diesel,Automatic,31746
+BMW X5,2012,Petrol,Manual,60117
+BMW 7 Series,2015,Petrol,Manual,39187
+BMW 7 Series,2021,Petrol,Automatic,45711
+BMW X5,2021,Diesel,Automatic,64517
+BMW 5 Series,2012,Petrol,Automatic,69750
+BMW 5 Series,2010,Hybrid,Automatic,56428
+BMW X1,2018,Diesel,Automatic,31848
+BMW 3 Series,2010,Hybrid,Automatic,51237
+BMW 7 Series,2014,Hybrid,Automatic,40518
+BMW 3 Series,2023,Diesel,Manual,63128
+BMW X5,2021,Diesel,Manual,59795
+BMW 3 Series,2012,Petrol,Automatic,46505
+BMW 7 Series,2011,Diesel,Automatic,36513
+BMW X5,2013,Diesel,Automatic,51033
+BMW X5,2017,Petrol,Automatic,58402
+BMW X1,2016,Diesel,Manual,32434
+BMW X3,2013,Petrol,Manual,49037
+BMW 3 Series,2021,Petrol,Automatic,55238
+BMW 5 Series,2021,Diesel,Automatic,69098
+BMW X5,2018,Diesel,Automatic,58600
+BMW X1,2023,Diesel,Manual,34450
+BMW X1,2011,Diesel,Automatic,25496
+BMW 3 Series,2019,Hybrid,Automatic,57435
+BMW X3,2017,Diesel,Automatic,42791
+BMW 5 Series,2016,Hybrid,Manual,62698
+BMW 7 Series,2013,Petrol,Automatic,41463
+BMW X1,2023,Petrol,Automatic,33263
+BMW 5 Series,2017,Diesel,Automatic,69059
+BMW X3,2017,Diesel,Automatic,43246
+BMW 3 Series,2023,Petrol,Automatic,60584
+BMW 3 Series,2015,Petrol,Manual,46244
+BMW 3 Series,2012,Petrol,Automatic,55020
+BMW 5 Series,2022,Petrol,Automatic,73164
+BMW X3,2020,Petrol,Automatic,52311
+BMW 3 Series,2020,Petrol,Automatic,50920
+BMW 5 Series,2023,Diesel,Manual,66553
+BMW 5 Series,2018,Petrol,Automatic,59733
+BMW X3,2012,Petrol,Manual,48060
+BMW X5,2016,Petrol,Manual,50899
+BMW 3 Series,2018,Petrol,Automatic,59655
+BMW X3,2022,Hybrid,Automatic,51092
+BMW X3,2013,Petrol,Automatic,44555
+BMW X3,2012,Diesel,Automatic,46320
+BMW 5 Series,2015,Petrol,Manual,64272
+BMW X1,2021,Petrol,Manual,34557
+BMW X1,2012,Hybrid,Manual,27869
+BMW 3 Series,2021,Petrol,Automatic,52922
+BMW X3,2023,Diesel,Automatic,51023
+BMW 5 Series,2015,Petrol,Automatic,64692
+BMW X1,2016,Petrol,Automatic,32644
+BMW 5 Series,2019,Hybrid,Automatic,64284
+BMW X1,2011,Diesel,Automatic,29095
+BMW 5 Series,2020,Diesel,Automatic,71787
+BMW X1,2019,Diesel,Automatic,36253
+BMW 3 Series,2021,Petrol,Automatic,59870
+BMW 5 Series,2020,Diesel,Automatic,71745
+BMW 5 Series,2013,Petrol,Automatic,61371
+BMW X1,2020,Diesel,Manual,29160
+BMW X1,2011,Petrol,Automatic,30868
+BMW X1,2012,Hybrid,Automatic,30543
+BMW 3 Series,2015,Hybrid,Automatic,49226
+BMW X3,2018,Petrol,Automatic,56269
+BMW 3 Series,2013,Petrol,Automatic,58699
+BMW 3 Series,2013,Petrol,Automatic,48421
+BMW 3 Series,2022,Petrol,Automatic,55372
+BMW X1,2023,Hybrid,Automatic,36343
+BMW X1,2010,Petrol,Manual,27963
+BMW X3,2010,Hybrid,Automatic,44815
+BMW X1,2017,Diesel,Automatic,31176
+BMW X1,2015,Petrol,Automatic,31877
+BMW 7 Series,2018,Petrol,Automatic,38832
+BMW 3 Series,2010,Diesel,Automatic,50378
+BMW 5 Series,2015,Petrol,Automatic,69089
+BMW 7 Series,2013,Petrol,Automatic,45407
+BMW 5 Series,2019,Diesel,Automatic,69691
+BMW 7 Series,2016,Petrol,Automatic,37035
+BMW 3 Series,2022,Petrol,Automatic,64271
+BMW X3,2012,Petrol,Automatic,46650
+BMW 5 Series,2023,Petrol,Automatic,71025
+BMW X1,2021,Petrol,Automatic,33290
+BMW 5 Series,2021,Diesel,Automatic,66340
+BMW 3 Series,2012,Petrol,Automatic,50047
+BMW X5,2018,Petrol,Automatic,55696
+BMW 7 Series,2012,Petrol,Automatic,39381
+BMW X5,2010,Petrol,Manual,45116
+BMW X3,2012,Petrol,Automatic,43117
+BMW X3,2018,Diesel,Automatic,56742
+BMW X3,2018,Petrol,Automatic,50275
+BMW 7 Series,2012,Petrol,Automatic,36000
+BMW 7 Series,2020,Petrol,Automatic,47024
+BMW X5,2011,Petrol,Manual,47008
+BMW X1,2022,Petrol,Automatic,39622
+BMW 3 Series,2022,Diesel,Automatic,50668
+BMW 3 Series,2023,Petrol,Automatic,49170
+BMW 5 Series,2020,Petrol,Automatic,75796
+BMW 3 Series,2017,Petrol,Automatic,50564
+BMW X1,2014,Petrol,Automatic,33124
+BMW 5 Series,2021,Petrol,Manual,63541
+BMW X1,2019,Hybrid,Automatic,36020
+BMW X3,2015,Petrol,Automatic,45883
+BMW X3,2020,Petrol,Automatic,51704
+BMW X3,2011,Hybrid,Automatic,55240
+BMW 3 Series,2023,Petrol,Automatic,62246
+BMW 3 Series,2013,Diesel,Automatic,52172
+BMW X5,2017,Petrol,Automatic,57691
+BMW 3 Series,2015,Petrol,Manual,49645
+BMW X1,2015,Petrol,Automatic,32491
+BMW X1,2011,Diesel,Automatic,30841
+BMW X3,2022,Petrol,Automatic,50853
+BMW X5,2020,Petrol,Automatic,57649
+BMW 3 Series,2023,Hybrid,Automatic,52361
+BMW 3 Series,2020,Petrol,Manual,48379
+BMW 3 Series,2022,Diesel,Automatic,53293
+BMW 5 Series,2013,Diesel,Manual,67454
+BMW X1,2014,Hybrid,Manual,27383
+BMW X3,2013,Hybrid,Automatic,48741
+BMW 3 Series,2020,Petrol,Automatic,62180
+BMW X3,2018,Petrol,Automatic,46869
+BMW 3 Series,2011,Diesel,Automatic,56015
+BMW 3 Series,2010,Diesel,Automatic,46579
+BMW 5 Series,2022,Diesel,Automatic,83424
+BMW 3 Series,2020,Diesel,Automatic,53516
+BMW 3 Series,2013,Hybrid,Manual,50280
+BMW 3 Series,2022,Hybrid,Automatic,58595
+BMW 3 Series,2012,Petrol,Manual,51621
+BMW X5,2017,Hybrid,Automatic,48682
+BMW X1,2019,Hybrid,Automatic,29569
+BMW 5 Series,2019,Petrol,Automatic,58517
+BMW X1,2022,Petrol,Automatic,33162
+BMW 5 Series,2022,Petrol,Manual,65281
+BMW 3 Series,2017,Petrol,Automatic,56082
+BMW 5 Series,2021,Diesel,Automatic,64579
+BMW 5 Series,2021,Petrol,Automatic,55198
+BMW X3,2019,Petrol,Automatic,52135
+BMW X1,2019,Petrol,Automatic,32884
+BMW 7 Series,2018,Petrol,Automatic,44888
+BMW 5 Series,2016,Diesel,Automatic,62391
+BMW X5,2022,Hybrid,Automatic,57926
+BMW 3 Series,2016,Hybrid,Automatic,64845
+BMW 3 Series,2017,Petrol,Automatic,55587
+BMW 5 Series,2022,Diesel,Automatic,64707
+BMW X3,2012,Hybrid,Manual,45082
+BMW X5,2018,Petrol,Automatic,61776
+BMW X3,2022,Hybrid,Automatic,50651
+BMW 5 Series,2010,Petrol,Automatic,63000
+BMW X5,2017,Petrol,Automatic,48892
+BMW 3 Series,2011,Diesel,Automatic,42740
+BMW X5,2011,Petrol,Automatic,51393
+BMW X5,2019,Diesel,Automatic,51286
+BMW X5,2021,Petrol,Automatic,51097
+BMW 3 Series,2010,Diesel,Automatic,46926
+BMW X1,2010,Petrol,Automatic,25587
+BMW X3,2012,Petrol,Automatic,40476
+BMW 3 Series,2012,Petrol,Automatic,58962
+BMW 3 Series,2021,Diesel,Manual,61763
+BMW 5 Series,2019,Petrol,Automatic,70204
+BMW X3,2021,Petrol,Automatic,45530
+BMW X5,2017,Hybrid,Automatic,45506
+BMW 3 Series,2017,Diesel,Automatic,57007
+BMW 3 Series,2023,Petrol,Manual,46486
+BMW 5 Series,2012,Hybrid,Automatic,65859
+BMW 5 Series,2011,Hybrid,Automatic,56691
+BMW 5 Series,2016,Petrol,Automatic,65925
+BMW X3,2013,Petrol,Automatic,46679
+BMW 7 Series,2019,Petrol,Automatic,38232
+BMW 5 Series,2020,Petrol,Automatic,76917
+BMW X5,2011,Diesel,Manual,49256
+BMW X3,2019,Diesel,Automatic,49114
+BMW 3 Series,2023,Hybrid,Automatic,64721
+BMW X1,2022,Diesel,Manual,34440
+BMW X5,2014,Petrol,Automatic,48729
+BMW X5,2010,Petrol,Automatic,50186
+BMW X3,2015,Hybrid,Automatic,43861
+BMW X3,2023,Hybrid,Automatic,53324
+BMW X3,2014,Petrol,Automatic,40444
+BMW 5 Series,2011,Petrol,Automatic,63521
+BMW X5,2010,Hybrid,Automatic,44190
+BMW X1,2020,Petrol,Automatic,37341
+BMW X5,2021,Diesel,Automatic,49198
+BMW 5 Series,2019,Petrol,Automatic,63752
+BMW 3 Series,2023,Petrol,Automatic,51724
+BMW X3,2012,Petrol,Automatic,47605
+BMW 5 Series,2019,Petrol,Automatic,69876
+BMW X5,2016,Diesel,Automatic,45420
+BMW 5 Series,2016,Petrol,Automatic,55233
+BMW X5,2015,Petrol,Automatic,55177
+BMW 5 Series,2015,Diesel,Automatic,65900
+BMW 7 Series,2019,Petrol,Automatic,37220
+BMW X5,2016,Petrol,Manual,52934
+BMW X5,2018,Petrol,Automatic,51754
+BMW 5 Series,2016,Diesel,Automatic,64082
+BMW 5 Series,2019,Petrol,Automatic,70008
+BMW X5,2019,Hybrid,Automatic,51307
+BMW X3,2021,Petrol,Manual,50373
+BMW X5,2016,Petrol,Automatic,52133
+BMW 3 Series,2014,Petrol,Automatic,54344
+BMW 3 Series,2021,Petrol,Automatic,60027
+BMW X3,2022,Petrol,Automatic,55501
+BMW X3,2013,Petrol,Automatic,41118
+BMW 3 Series,2011,Petrol,Automatic,47552
+BMW X1,2022,Petrol,Automatic,36008
+BMW 3 Series,2012,Petrol,Automatic,54273
+BMW X3,2011,Petrol,Automatic,45007
+BMW 3 Series,2021,Petrol,Manual,57367
+BMW X1,2022,Diesel,Manual,32556
+BMW X1,2017,Diesel,Manual,25521
+BMW X5,2020,Petrol,Automatic,53118
+BMW 7 Series,2020,Hybrid,Automatic,47364
+BMW X3,2011,Diesel,Automatic,45766
+BMW 3 Series,2012,Diesel,Automatic,50738
+BMW X1,2021,Petrol,Automatic,32613
+BMW X5,2010,Diesel,Automatic,49352
+BMW X3,2011,Petrol,Automatic,43173
+BMW 3 Series,2019,Petrol,Automatic,51278
+BMW X1,2017,Petrol,Automatic,37097
+BMW X1,2013,Diesel,Automatic,28586
+BMW 3 Series,2011,Petrol,Automatic,52150
+BMW X5,2015,Petrol,Automatic,55559
+BMW X5,2012,Petrol,Automatic,58098
+BMW 5 Series,2012,Diesel,Automatic,67567
+BMW X1,2016,Petrol,Automatic,31137
+BMW 7 Series,2021,Diesel,Automatic,44642
+BMW 3 Series,2010,Petrol,Automatic,56129
+BMW 5 Series,2011,Diesel,Automatic,62032
+BMW 3 Series,2013,Petrol,Automatic,52931
+BMW 3 Series,2012,Hybrid,Automatic,53595
+BMW 7 Series,2010,Petrol,Automatic,33582
+BMW X1,2012,Diesel,Automatic,28893
+BMW 5 Series,2016,Hybrid,Automatic,60056
+BMW 3 Series,2015,Petrol,Automatic,55748
+BMW X1,2019,Petrol,Automatic,32192
+BMW 3 Series,2016,Hybrid,Automatic,53681
+BMW 3 Series,2019,Diesel,Automatic,52356
+BMW 5 Series,2019,Petrol,Manual,62948
+BMW X5,2014,Petrol,Automatic,52347
+BMW X1,2020,Hybrid,Automatic,36407
+BMW 5 Series,2018,Petrol,Automatic,65583
+BMW 3 Series,2012,Petrol,Automatic,52826
+BMW 7 Series,2012,Petrol,Automatic,31858
+BMW X1,2015,Diesel,Automatic,29577
+BMW X5,2018,Petrol,Automatic,52943
+BMW X3,2010,Petrol,Automatic,38375
+BMW X1,2023,Petrol,Automatic,35124
+BMW 5 Series,2013,Petrol,Automatic,61738
+BMW 5 Series,2012,Petrol,Automatic,65974
+BMW 3 Series,2023,Diesel,Automatic,60678
+BMW X1,2023,Petrol,Automatic,32360
+BMW X1,2019,Hybrid,Automatic,37405
+BMW 7 Series,2011,Diesel,Manual,38765
+BMW X5,2020,Petrol,Manual,48699
+BMW X1,2014,Petrol,Automatic,31209
+BMW X5,2021,Diesel,Manual,51686
+BMW 5 Series,2011,Diesel,Automatic,54753
+BMW X1,2018,Petrol,Automatic,32139
+BMW 5 Series,2012,Diesel,Automatic,61904
+BMW 3 Series,2016,Diesel,Automatic,46608
+BMW X1,2020,Petrol,Automatic,34675
+BMW 5 Series,2015,Petrol,Manual,62782
+BMW 3 Series,2013,Petrol,Automatic,53497
+BMW 3 Series,2023,Hybrid,Automatic,55998
+BMW 3 Series,2018,Hybrid,Automatic,59513
+BMW 7 Series,2010,Petrol,Automatic,30947
+BMW 3 Series,2023,Petrol,Automatic,63695
+BMW 3 Series,2022,Petrol,Automatic,59765
+BMW 3 Series,2021,Diesel,Automatic,55522
+BMW 5 Series,2023,Hybrid,Automatic,75288
+BMW 3 Series,2022,Petrol,Automatic,55917
+BMW X3,2011,Diesel,Automatic,44290
+BMW X1,2012,Hybrid,Automatic,34191
+BMW X3,2021,Petrol,Automatic,49597
+BMW X3,2021,Petrol,Automatic,50905
+BMW X3,2011,Diesel,Automatic,45153
+BMW X1,2012,Petrol,Automatic,34004
+BMW X5,2014,Petrol,Automatic,48206
+BMW X3,2023,Hybrid,Automatic,48543
+BMW 3 Series,2020,Diesel,Automatic,57758
+BMW X3,2013,Diesel,Automatic,45091
+BMW 3 Series,2017,Diesel,Automatic,51034
+BMW X1,2018,Petrol,Automatic,29682
+BMW X5,2022,Diesel,Automatic,54889
+BMW X1,2022,Petrol,Automatic,36885
+BMW 5 Series,2010,Hybrid,Automatic,67315
+BMW 5 Series,2015,Hybrid,Automatic,64390
+BMW 3 Series,2011,Petrol,Automatic,48901
+BMW 3 Series,2018,Petrol,Automatic,48068
+BMW 5 Series,2013,Petrol,Automatic,62849
+BMW X3,2022,Diesel,Manual,55989
+BMW X1,2022,Petrol,Automatic,30587
+BMW 3 Series,2012,Petrol,Automatic,49181
+BMW 3 Series,2022,Petrol,Automatic,54091
+BMW X5,2018,Diesel,Automatic,54061
+BMW X3,2016,Petrol,Automatic,44522
+BMW 3 Series,2018,Diesel,Automatic,45980
+BMW 5 Series,2015,Petrol,Automatic,63731
+BMW X5,2017,Diesel,Automatic,54130
+BMW 3 Series,2012,Hybrid,Automatic,52215
+BMW 3 Series,2017,Petrol,Automatic,52025
+BMW X1,2022,Hybrid,Manual,38102
+BMW X5,2022,Petrol,Automatic,52548
+BMW 3 Series,2023,Petrol,Automatic,66190
+BMW X3,2017,Hybrid,Automatic,48311
+BMW X5,2022,Diesel,Automatic,50520
+BMW X3,2020,Petrol,Automatic,51437
+BMW X1,2010,Petrol,Automatic,26873
+BMW X3,2012,Diesel,Automatic,55137
+BMW X3,2010,Petrol,Automatic,37687
+BMW 5 Series,2011,Diesel,Automatic,55178
+BMW X5,2018,Petrol,Manual,51315
+BMW 3 Series,2016,Hybrid,Automatic,48231
+BMW 3 Series,2017,Petrol,Automatic,55151
+BMW 7 Series,2022,Diesel,Automatic,48063
+BMW X1,2010,Petrol,Automatic,29253
+BMW X3,2010,Hybrid,Automatic,45512
+BMW 3 Series,2017,Petrol,Manual,54825
+BMW 5 Series,2011,Petrol,Automatic,74985
+BMW X3,2010,Petrol,Automatic,45770
+BMW X3,2019,Petrol,Automatic,52368
+BMW 7 Series,2016,Diesel,Manual,37528
+BMW X1,2023,Diesel,Automatic,40834
+BMW X3,2015,Diesel,Manual,45220
+BMW X3,2021,Hybrid,Automatic,48102
+BMW 5 Series,2018,Petrol,Automatic,59650
+BMW X5,2013,Diesel,Automatic,51012
+BMW X5,2015,Petrol,Automatic,53985
+BMW 3 Series,2012,Diesel,Automatic,48597
+BMW 3 Series,2010,Hybrid,Automatic,52329
+BMW 3 Series,2021,Diesel,Manual,56899
+BMW 5 Series,2023,Hybrid,Automatic,64398
+BMW X1,2011,Petrol,Automatic,30869
+BMW X1,2015,Petrol,Automatic,33873
+BMW X5,2022,Hybrid,Manual,48876
+BMW 3 Series,2020,Hybrid,Automatic,64140
+BMW 5 Series,2012,Petrol,Automatic,59811
+BMW X5,2012,Diesel,Automatic,53357
+BMW X5,2019,Petrol,Automatic,57781
+BMW 3 Series,2019,Diesel,Manual,55432
+BMW X3,2023,Petrol,Automatic,52097
+BMW 5 Series,2018,Diesel,Automatic,64458
+BMW X1,2020,Petrol,Automatic,34734
+BMW 3 Series,2010,Petrol,Manual,45255
+BMW 5 Series,2010,Petrol,Automatic,60582
+BMW X3,2014,Petrol,Manual,38503
+BMW X5,2011,Petrol,Manual,45120
+BMW 7 Series,2017,Diesel,Manual,35835
+BMW 3 Series,2012,Petrol,Automatic,45550
+BMW 5 Series,2010,Petrol,Automatic,61487
+BMW X3,2010,Petrol,Automatic,49837
+BMW X5,2013,Hybrid,Automatic,53044
+BMW 3 Series,2019,Petrol,Automatic,60428
+BMW 7 Series,2016,Diesel,Automatic,36135
+BMW 5 Series,2019,Petrol,Automatic,53433
+BMW X1,2021,Petrol,Manual,32842
+BMW 7 Series,2019,Petrol,Automatic,38603
+BMW 5 Series,2010,Diesel,Automatic,63723
+BMW X3,2011,Hybrid,Automatic,54264
+BMW X1,2022,Hybrid,Automatic,36110
+BMW 5 Series,2016,Diesel,Automatic,68950
+BMW X3,2014,Diesel,Automatic,42887
+BMW X1,2012,Petrol,Automatic,28886
+BMW 5 Series,2020,Diesel,Manual,61417
+BMW X3,2015,Petrol,Automatic,40899
+BMW X1,2021,Petrol,Automatic,38149
+BMW X1,2012,Hybrid,Automatic,31284
+BMW 3 Series,2012,Petrol,Automatic,45354
+BMW 3 Series,2013,Petrol,Automatic,49382
+BMW 3 Series,2021,Petrol,Manual,56639
+BMW 3 Series,2013,Hybrid,Automatic,44479
+BMW X5,2019,Petrol,Automatic,51191
+BMW 3 Series,2018,Petrol,Automatic,50462
+BMW 3 Series,2018,Petrol,Automatic,56620
+BMW 5 Series,2019,Diesel,Automatic,62004
+BMW 5 Series,2010,Petrol,Automatic,59780
+BMW 5 Series,2011,Petrol,Automatic,57414
+BMW X3,2020,Hybrid,Automatic,48448
+BMW X1,2019,Diesel,Automatic,32947
+BMW 5 Series,2017,Petrol,Automatic,57690
+BMW 3 Series,2012,Petrol,Manual,51469
+BMW X1,2021,Hybrid,Automatic,37850
+BMW 3 Series,2016,Hybrid,Automatic,59403
+BMW 5 Series,2014,Petrol,Automatic,65880
+BMW 5 Series,2023,Petrol,Automatic,75455
+BMW 5 Series,2013,Diesel,Automatic,67218
+BMW X1,2014,Hybrid,Automatic,33726
+BMW 3 Series,2020,Petrol,Automatic,55583
+BMW X1,2014,Petrol,Automatic,25191
+BMW X1,2021,Diesel,Automatic,37192
+BMW X5,2013,Diesel,Automatic,60743
+BMW X5,2020,Diesel,Automatic,45322
+BMW X5,2011,Petrol,Automatic,44989
+BMW X1,2018,Hybrid,Automatic,34734
+BMW X3,2013,Petrol,Automatic,40443
+BMW X5,2013,Petrol,Automatic,42851
+BMW X1,2019,Diesel,Automatic,29900
+BMW 5 Series,2010,Diesel,Automatic,52707
+BMW 5 Series,2017,Petrol,Automatic,56079
+BMW X1,2022,Hybrid,Automatic,35173
+BMW 5 Series,2013,Diesel,Automatic,65955
+BMW 3 Series,2015,Diesel,Automatic,54570
+BMW 7 Series,2022,Diesel,Automatic,40679
+BMW X1,2013,Diesel,Automatic,28725
+BMW X5,2014,Petrol,Automatic,44261
+BMW 7 Series,2019,Diesel,Manual,37441
+BMW 5 Series,2014,Diesel,Automatic,65055
+BMW 7 Series,2012,Diesel,Automatic,36643
+BMW X5,2022,Diesel,Manual,59566
+BMW 7 Series,2021,Hybrid,Manual,39977
+BMW X5,2017,Petrol,Automatic,57229
+BMW X3,2022,Petrol,Automatic,48008
+BMW 5 Series,2013,Petrol,Manual,55619
+BMW X3,2015,Petrol,Automatic,45692
+BMW 7 Series,2013,Diesel,Automatic,37747
+BMW 3 Series,2014,Petrol,Manual,51577
+BMW 5 Series,2017,Diesel,Automatic,66063
+BMW X1,2020,Petrol,Automatic,32832
+BMW 3 Series,2010,Petrol,Automatic,51017
+BMW X3,2020,Diesel,Automatic,45829
+BMW 7 Series,2023,Diesel,Automatic,41929
+BMW X3,2017,Hybrid,Manual,40227
+BMW X5,2013,Petrol,Manual,44290
+BMW 3 Series,2016,Petrol,Automatic,50824
+BMW 5 Series,2021,Hybrid,Automatic,66648
+BMW X3,2023,Diesel,Automatic,46893
+BMW 7 Series,2022,Diesel,Automatic,38457
+BMW 3 Series,2011,Petrol,Automatic,48637
+BMW 3 Series,2022,Petrol,Automatic,59730
+BMW 3 Series,2016,Diesel,Automatic,50469
+BMW X3,2017,Hybrid,Automatic,44725
+BMW 5 Series,2017,Petrol,Automatic,64540
+BMW X1,2017,Petrol,Automatic,37324
+BMW X3,2011,Petrol,Automatic,46707
+BMW 7 Series,2017,Hybrid,Manual,35671
+BMW 3 Series,2022,Diesel,Manual,55614
+BMW 5 Series,2012,Petrol,Automatic,69740
+BMW 3 Series,2019,Diesel,Automatic,51705
+BMW 5 Series,2018,Petrol,Automatic,72776
+BMW 5 Series,2022,Hybrid,Automatic,56368
+BMW X3,2011,Hybrid,Automatic,47371
+BMW 5 Series,2011,Petrol,Automatic,58757
+BMW 3 Series,2023,Petrol,Automatic,55644
+BMW X1,2011,Hybrid,Automatic,29437
+BMW 3 Series,2016,Petrol,Automatic,49756
+BMW X1,2019,Petrol,Automatic,35879
+BMW X1,2019,Petrol,Automatic,35977
+BMW 7 Series,2023,Petrol,Automatic,47638
+BMW 3 Series,2019,Petrol,Automatic,56178
+BMW X5,2012,Petrol,Automatic,50584
+BMW 3 Series,2023,Diesel,Automatic,60811
+BMW 5 Series,2021,Diesel,Manual,67395
+BMW 5 Series,2010,Hybrid,Automatic,65312
+BMW 5 Series,2019,Petrol,Automatic,72160
+BMW X3,2022,Petrol,Automatic,48234
+BMW X3,2019,Diesel,Automatic,48713
+BMW 5 Series,2017,Hybrid,Automatic,57296
+BMW X1,2023,Diesel,Automatic,32150
+BMW 3 Series,2015,Petrol,Manual,51413
+BMW 3 Series,2023,Hybrid,Automatic,50891
+BMW X3,2017,Diesel,Automatic,44547
+BMW 3 Series,2023,Petrol,Automatic,59634
+BMW 5 Series,2022,Diesel,Automatic,64622
+BMW X3,2019,Diesel,Automatic,51054
+BMW 3 Series,2020,Hybrid,Automatic,59861
+BMW 3 Series,2015,Diesel,Automatic,50844
+BMW 5 Series,2018,Petrol,Automatic,61896
+BMW X5,2014,Petrol,Manual,46856
+BMW 5 Series,2012,Petrol,Manual,53844
+BMW X5,2011,Hybrid,Automatic,55015
+BMW 5 Series,2017,Petrol,Automatic,63976
+BMW X1,2019,Petrol,Automatic,37220
+BMW X3,2013,Petrol,Manual,50404
+BMW X1,2021,Diesel,Automatic,30205
+BMW X1,2018,Petrol,Automatic,31833
+BMW 3 Series,2023,Hybrid,Manual,62226
+BMW 3 Series,2012,Hybrid,Automatic,49888
+BMW 7 Series,2023,Petrol,Automatic,46015
+BMW X3,2010,Petrol,Manual,39085
+BMW 3 Series,2018,Petrol,Automatic,59134
+BMW 3 Series,2021,Hybrid,Manual,53895
+BMW 3 Series,2019,Hybrid,Automatic,60036
+BMW X5,2014,Petrol,Automatic,51308
+BMW 5 Series,2019,Petrol,Automatic,67339
+BMW 5 Series,2023,Petrol,Automatic,76900
+BMW X5,2012,Diesel,Automatic,46707
+BMW 3 Series,2021,Diesel,Automatic,52861
+BMW X1,2017,Petrol,Automatic,33135
+BMW X1,2022,Petrol,Automatic,37216
+BMW 5 Series,2021,Diesel,Manual,74372
+BMW 5 Series,2014,Diesel,Automatic,61374
+BMW 5 Series,2022,Petrol,Automatic,57283
+BMW X5,2013,Diesel,Automatic,50787
+BMW X1,2011,Petrol,Automatic,30693
+BMW 7 Series,2012,Petrol,Manual,34187
+BMW 7 Series,2014,Diesel,Automatic,34338
+BMW X3,2010,Petrol,Automatic,44112
+BMW 3 Series,2011,Hybrid,Automatic,59477
+BMW X3,2020,Diesel,Automatic,47609
+BMW 7 Series,2019,Petrol,Automatic,38886
+BMW 3 Series,2022,Petrol,Automatic,52813
+BMW 3 Series,2013,Petrol,Manual,53913
+BMW 3 Series,2017,Hybrid,Automatic,45562
+BMW X3,2011,Hybrid,Automatic,50590
+BMW X1,2022,Hybrid,Automatic,33126
+BMW 3 Series,2017,Petrol,Automatic,53078
+BMW 5 Series,2021,Petrol,Manual,61956
+BMW 5 Series,2017,Petrol,Automatic,63450
+BMW 3 Series,2012,Diesel,Automatic,52384
+BMW X5,2015,Diesel,Automatic,50544
+BMW 7 Series,2022,Diesel,Automatic,43206
+BMW 3 Series,2016,Diesel,Automatic,53345
+BMW X5,2012,Diesel,Automatic,51968
+BMW 5 Series,2012,Hybrid,Automatic,62252
+BMW X5,2016,Diesel,Automatic,57057
+BMW X3,2022,Petrol,Automatic,48504
+BMW X1,2012,Hybrid,Automatic,34188
+BMW 3 Series,2012,Petrol,Automatic,55226
+BMW X3,2014,Hybrid,Automatic,48463
+BMW X1,2013,Petrol,Automatic,31762
+BMW 3 Series,2011,Petrol,Automatic,50196
+BMW X5,2013,Petrol,Automatic,52747
+BMW 5 Series,2014,Petrol,Automatic,65351
+BMW X3,2016,Hybrid,Automatic,45516
+BMW 5 Series,2022,Petrol,Automatic,61321
+BMW 7 Series,2016,Petrol,Automatic,41499
+BMW X3,2012,Petrol,Automatic,44748
+BMW 3 Series,2019,Diesel,Automatic,55344
+BMW 3 Series,2016,Petrol,Automatic,51583
+BMW X5,2013,Petrol,Automatic,41781
+BMW X3,2018,Diesel,Automatic,46688
+BMW 3 Series,2011,Diesel,Automatic,55912
+BMW X1,2016,Petrol,Automatic,31685
+BMW 3 Series,2017,Hybrid,Manual,48366
+BMW X5,2011,Petrol,Manual,48387
+BMW X1,2023,Petrol,Automatic,40374
+BMW X3,2016,Petrol,Automatic,45667
+BMW X1,2019,Petrol,Automatic,31044
+BMW X3,2012,Petrol,Automatic,49082
+BMW X3,2016,Petrol,Automatic,45917
+BMW 7 Series,2020,Petrol,Automatic,44580
+BMW 3 Series,2015,Petrol,Manual,53568
+BMW 3 Series,2017,Petrol,Manual,49698
+BMW X3,2011,Hybrid,Automatic,46743
+BMW 5 Series,2016,Petrol,Automatic,56304
+BMW 3 Series,2015,Petrol,Automatic,51351
+BMW X3,2020,Diesel,Automatic,53744
+BMW X5,2017,Diesel,Automatic,56509
+BMW 5 Series,2011,Petrol,Automatic,62730
+BMW X5,2014,Petrol,Automatic,49837
+BMW 5 Series,2018,Diesel,Automatic,66665
+BMW X3,2016,Petrol,Automatic,54708
+BMW X1,2019,Hybrid,Automatic,27905
+BMW X1,2016,Petrol,Automatic,30232
+BMW X3,2011,Petrol,Automatic,47934
+BMW 5 Series,2020,Petrol,Automatic,62929
+BMW X1,2014,Diesel,Manual,34859
+BMW 3 Series,2011,Diesel,Automatic,40755
+BMW 3 Series,2017,Hybrid,Manual,52630
+BMW X3,2021,Diesel,Automatic,59446
+BMW X1,2020,Petrol,Automatic,35440
+BMW 3 Series,2010,Petrol,Manual,48225
+BMW X5,2014,Hybrid,Automatic,49310
+BMW X3,2011,Petrol,Automatic,49230
+BMW 7 Series,2020,Petrol,Automatic,42180
+BMW X3,2010,Petrol,Automatic,46958
+BMW X1,2014,Petrol,Automatic,31369
+BMW 5 Series,2013,Petrol,Automatic,61497
+BMW 7 Series,2018,Petrol,Manual,40342
+BMW 5 Series,2014,Petrol,Automatic,61577
+BMW 5 Series,2017,Petrol,Automatic,59041
+BMW X3,2013,Petrol,Automatic,48356
+BMW X1,2020,Diesel,Manual,37654
+BMW X1,2018,Hybrid,Automatic,37571
+BMW 5 Series,2021,Petrol,Automatic,71268
+BMW 5 Series,2017,Diesel,Automatic,69554
+BMW X3,2022,Diesel,Manual,51185
+BMW 3 Series,2016,Diesel,Automatic,65448
+BMW 5 Series,2016,Diesel,Automatic,67764
+BMW X5,2023,Petrol,Automatic,64825
+BMW X1,2020,Diesel,Automatic,37928
+BMW 3 Series,2015,Petrol,Manual,60494
+BMW 5 Series,2018,Petrol,Manual,63750
